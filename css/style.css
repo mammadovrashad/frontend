@@ -1,0 +1,10 @@
+.blog{
+    transform: rotate(45deg);
+    
+}
+.blog{
+    width: 30px;
+    height: 50px;
+  
+    background-color: red;
+}
